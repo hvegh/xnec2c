@@ -1,0 +1,9 @@
+Please read the user manual in the doc/ directory
+
+Build:
+
+git clone https://github.com/hvegh/xnec2c.git
+cd xnec2c
+./autogen.sh
+./configure
+make -j9
